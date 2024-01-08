@@ -1,5 +1,7 @@
 My personal portfolio website, built with Nuxt.js, Windi CSS, TypeScript.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/399f94b3-f60d-419d-b7a8-41068fa93487/deploy-status)](https://app.netlify.com/sites/staging-keebrother/deploys)
+
 [Origin fork from Here](https://github.com/eggsy/website?utm_source=eggsy.xyz)
 
 ### 🔧 Getting Started
